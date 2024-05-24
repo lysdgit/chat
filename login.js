@@ -6,7 +6,7 @@ var mysql=require('mysql');
 var connection = mysql.createConnection({
 host:"mysql.sqlpub.com",
 user:"lysdsql",
-password:"46771b53bb625790",
+password:"46771b53bb6257901",
 database:"lystest",
 port:'3306'
 });
